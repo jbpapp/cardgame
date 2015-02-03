@@ -1,0 +1,6 @@
+suites:
+    cardgame_suit:
+        namespace: Smartbit
+        psr4_prefix: Smartbit
+        src_path: src
+        spec_prefix: spec
